@@ -1,0 +1,18 @@
+# 1. Code Runner Temporary Files (Must ignore)
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.*
+
+# 2. Compiled Executables (Never push .exe files)
+*.exe
+*.out
+*.app
+
+# 3. Object & Build Artifacts
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# 4. OS Junk
+Thumbs.db
+.DS_Store
